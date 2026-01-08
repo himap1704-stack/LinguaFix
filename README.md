@@ -6,3 +6,7 @@ Aplikasi yang secara otomatis mendeteksi dan memperbaiki kesalahan grammar, ejaa
 # Ketua 
 
 Dirgahayu Rohima Putri Yulianto 
+
+# Team
+
+Margaretha Gracia Tiara Putri
